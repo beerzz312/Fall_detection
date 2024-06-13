@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input, button {
+    margin-bottom: 10px;
+}
+
+#cameras {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.iframe-container {
+    width: 100%; /* Make iframe container full width */
+    height: 100%; /* Make iframe container full height */
+  }
+
